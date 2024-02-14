@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168262005675",
+    "project_id": "yopee-customer-cc7b3",
+    "storage_bucket": "yopee-customer-cc7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168262005675:android:2afb476954bf6543de18ee",
+        "android_client_info": {
+          "package_name": "com.app.yopee_customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBq-ku_RNoURH2Dv05PfrgC6uaQTUAJZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
